@@ -5,4 +5,7 @@ JS=>WASI=>NativOS
 JS=>WasmerJS=>NativOS
 JS=>uwasi=>NativOS
 
-uwasi will offer a https based permission api 
+uwasi will offer a https based permission api open pwa
+
+## WHY?
+I got the idea long time ago but now the Dependencies are solved and we can start Implamentation. We Need a Universal Platform to run our Applications with less overhead. This Also Will Replace Projects like Electron as this offers a single instance to expose Caps (file access, network access, hardware access, remote*)
