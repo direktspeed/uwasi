@@ -19,4 +19,5 @@ I got the idea long time ago but now the Dependencies are solved and we can star
 - You want to run your PWA With window control of the host system https://github.com/WebAssembly/WASI/issues/174 https://github.com/WebAssembly/WASI/issues/171
 - You want a smaller more universal and optimized stack then Electron (NodeJS+Chrome)
   - can deal with embedded devices and small screens even analog once.
+  - for future hardware like smart watches and smart glasses.
 
